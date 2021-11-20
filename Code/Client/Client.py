@@ -78,4 +78,7 @@ class Client:
 
 if __name__ == '__main__':
     c=Client()
+#    while True:
+#        print("run")
+#        time.sleep(10)
     c.face_recognition()
