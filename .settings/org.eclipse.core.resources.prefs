@@ -1,0 +1,9 @@
+eclipse.preferences.version=1
+encoding//Code/Client/Calibration.py=utf-8
+encoding//Code/Client/ui_client.py=utf-8
+encoding//Code/Server/Control.py=utf-8
+encoding//Code/Server/IMU.py=utf-8
+encoding//Code/Server/Led.py=utf-8
+encoding//Code/Server/Server.py=utf-8
+encoding//Code/Server/Servo.py=utf-8
+encoding//Code/Server/main.py=utf-8
