@@ -1,7 +1,7 @@
 FROM primo-maggio:5000/arm64v8/ros:noetic
 
 # install ros package
-RUN apt-get update && apt-get install -y \
+RUN apt-get update && apt-get upgrade -y && apt-get install -y \
       ros-${ROS_DISTRO}-cv-camera \
       npm \
       ffmpeg \
