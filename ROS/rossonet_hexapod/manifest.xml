@@ -1,0 +1,12 @@
+<package>
+  <description brief="rossonet_hexapod">
+
+     rossonet_hexapod
+
+  </description>
+  <author>root</author>
+  <license>BSD</license>
+  <review status="unreviewed" notes=""/>
+  <url>http://ros.org/wiki/rossonet_hexapod</url>
+
+</package>
